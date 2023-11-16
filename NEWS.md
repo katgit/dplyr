@@ -1,5 +1,7 @@
 # dplyr (development version)
 
+* Katia Modified news file
+
 * `left_join()` and friends now return a specialized error message if they
   detect that your join would return more rows than dplyr can handle (#6912).
 
