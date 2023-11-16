@@ -1,4 +1,4 @@
-#' Find the first non-missing element
+#' Find the first non-missing elements
 #'
 #' Given a set of vectors, `coalesce()` finds the first non-missing value at
 #' each position. It's inspired by the SQL `COALESCE` function which does the
